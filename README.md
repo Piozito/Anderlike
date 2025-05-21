@@ -19,7 +19,7 @@ Feel free to explore and reach out if you have any questions or want to collabor
 - piozito on discord if you wanna talk;
 
 ## 📈 GitHub Stats
-![Anderlike's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anderlike&show_icons=true&theme=radical)
+![Anderlike's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piozito&show_icons=true&theme=radical)
 
 ## 🏆 Achievements
 - Milestone 1 of 42 school;
